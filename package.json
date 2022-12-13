@@ -9,7 +9,7 @@
     "axios": "^0.18.0",
     "bootstrap": "^4.4.1",
     "dotenv": "^8.2.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "font-awesome": "^4.7.0",
     "joi-browser": "^13.4.0",
     "jwt-decode": "^2.2.0",
